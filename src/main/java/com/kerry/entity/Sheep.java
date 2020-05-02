@@ -1,6 +1,7 @@
 package com.kerry.entity;
 
 /**
+ * 羊的实体
  * 羊实体
  */
 public class Sheep {
