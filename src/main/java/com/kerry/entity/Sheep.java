@@ -1,7 +1,7 @@
 package com.kerry.entity;
 
 /**
- * 羊的实体
+ * 羊毛的实体
  */
 public class Sheep {
     // 年 龄
