@@ -2,6 +2,8 @@ package com.kerry.entity;
 
 /**
  * 羊实体
+ * 羊毛的实体
+ * 合并
  */
 public class Sheep {
     // 年 龄
