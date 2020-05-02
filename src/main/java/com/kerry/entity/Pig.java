@@ -3,13 +3,13 @@ package com.kerry.entity;
 /**
  * 猫实体
  */
-public class Cat {
+public class Pig {
     // 年龄
     private int age;
     // 姓名
     private String name;
 
-    public Cat(int age, String name) {
+    public Pig(int age, String name) {
         this.age = age;
         this.name = name;
     }
