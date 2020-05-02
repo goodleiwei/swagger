@@ -1,7 +1,7 @@
 package com.kerry.entity;
 
 /**
- * 猫实体
+ * 猪实体
  */
 public class Pig {
     // 年龄
