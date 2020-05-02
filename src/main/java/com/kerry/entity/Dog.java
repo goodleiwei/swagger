@@ -1,15 +1,12 @@
 package com.kerry.entity;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class Son {
+public class Dog {
     // 年龄
     private int age;
     // 姓名
     private String name;
 
-    public Son(int age, String name) {
+    public Dog(int age, String name) {
         this.age = age;
         this.name = name;
     }
@@ -32,7 +29,7 @@ public class Son {
 
     @Override
     public String toString() {
-        return "Son{" +
+        return "Dog{" +
                 "age=" + age +
                 ", name='" + name + '\'' +
                 '}';
